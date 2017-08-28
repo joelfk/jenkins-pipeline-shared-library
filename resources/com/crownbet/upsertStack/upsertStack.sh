@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Inside script!"
+echo "Hello, {NAME}"
